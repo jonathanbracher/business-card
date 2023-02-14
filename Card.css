@@ -1,0 +1,33 @@
+.mars{
+    width: 150px;
+    border-radius: 20px;
+}
+
+.text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+    
+    
+
+
+    
+
+.card {
+       
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-bottom: 10px solid rgb(45, 210, 30);
+    color: rgb(20, 19, 19);
+    background: blueviolet;
+    border-radius: 50px;
+}
+
+
+
+
